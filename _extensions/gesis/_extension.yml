@@ -1,5 +1,5 @@
-title: Gesis
-author: schochastics
+title: GESIS Typst Doc Template
+author: David Schoch
 version: 1.0.0
 quarto-required: ">=1.6.0"
 contributes:
