@@ -1,7 +1,7 @@
 # GESIS Typst Document Format
 
 > [!IMPORTANT]
->This is a repository for Quarto Typst doc template in GESIS Paper style. This is not an official product. Please use official templates if they exist.
+>This is a repository for a Quarto Typst doc template in GESIS Paper style. This is not an official product. Please use official templates if they exist.
 
 ## Installing
 
